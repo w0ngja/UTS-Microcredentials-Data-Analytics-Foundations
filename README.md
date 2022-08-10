@@ -1,7 +1,7 @@
 # uts-microcredentials-data-foundations
-Coursework and final assignment for the UTS Data Analytics Foundations Microcredential
-
-Analysis completed using a combination of excel and Knime
+Coursework and final assignment for the UTS Data Analytics Foundations Microcredential.
+  
+Data analysis was completed using a combination of Microsoft Excel and Knime.
 
 
 
